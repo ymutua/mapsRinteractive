@@ -1,0 +1,30 @@
+Package: mapsRinteractive
+Type: Package
+Title: Local Adaptation and Evaluation of Raster Maps
+Version: 2.0.1
+Authors@R: c(person("Kristin", "Persson", 
+                email = "kristin.persson@slu.se",
+                role = c("aut", "cre", "cph")
+                ),
+              person("Mats", "Soderstrom",
+                email = "mats.soderstrom@slu.se",
+                role = c("ctb", "cph")
+                ),
+              person("John", "Mutua",
+                email = "john.mutua@ed.ac.uk",
+                role = c("ctb")
+                )
+            )
+Maintainer: Kristin Persson <kristin.persson@slu.se>
+Description: Local adaptation and evaluation of maps of continuous attributes in raster format by use of point location data.
+License: MIT + file LICENSE
+URL: https://CRAN.R-project.org/package=mapsRinteractive 
+BugReports: https://github.com/kriper0217/mapsRinteractive/issues
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.2.3
+Imports: terra, gstat
+Suggests: 
+    roxygen2,
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
