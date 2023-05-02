@@ -1,5 +1,5 @@
 mapsRinteractive
-============
+=============
 
 <!-- badges: start -->
 [![CRAN](https://www.r-pkg.org/badges/version/mapsRinteractive)](https://cran.r-project.org/package=mapsRinteractive) 
@@ -25,7 +25,7 @@ devtools::install_github("soilmapper/mapsRinteractive")
 
 ## More information
 
-  - Please [report any issues or bugs](https://github.com/soilmapper/mapsRinteractive/issues).
+  - Please [report any issues or bugs](https://github.com/kriper0217/mapsRinteractive/issues).
 
   - License: MIT.
 
