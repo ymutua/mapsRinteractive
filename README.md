@@ -20,12 +20,12 @@ The development version can be installed via
 ``` r
 library("devtools")
 
-devtools::install_github("soilmapper/mapsRinteractive")
+devtools::install_github("ymutua/mapsRinteractive")
 ```
 
 ## More information
 
-  - Please [report any issues or bugs](https://github.com/kriper0217/mapsRinteractive/issues).
+  - Please [report any issues or bugs](https://github.com/ymutua/mapsRinteractive/issues).
 
   - License: MIT.
 
